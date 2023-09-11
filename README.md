@@ -18,7 +18,7 @@
 ## ✨ Team Member
 |  Team FE  |  한원영 (Leader) |   이지효   |    정희창    |
 | :-------: | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-| Profile |<img width="150" src="https://avatars.githubusercontent.com/u/52683129?v=4">| <img width="150" src="https://avatars.githubusercontent.com/u/91511828?v=4"> |<img width=150 src="https://github.com/codestates-seb/seb44_main_029/assets/70733630/a7290178-0bd2-4ee1-9e80-3869c550124d">
+| Profile |<img width="150" src="https://avatars.githubusercontent.com/u/52683129?v=4">| <img width="150" src="https://avatars.githubusercontent.com/u/91511828?v=4"> |<img width=150 src="https://github.com/qpwoei0123/CozyStates/assets/85989215/b9fc73cc-c593-4413-9f8b-477c4a6677a0">
 | GitHub ID |  [@qpwoei0123](https://github.com/qpwoei0123) | [@dlwl8y](https://github.com/dlwl8y) |  [@HEECHANG96](https://github.com/HEECHANG96) |
 |   Role    |                                                                              - 음원 컴포넌트  <br> - 파일 업로드 <br> - 공통 컴포넌트(Nav) <br> - 테마리스트 페이지 <br> - 랜딩 페이지 <br>                                           |        - 테마 아이템 리스트 <br> - 페이지네이션(무한 스크롤) <br> - 좋아요 기능 <br> - 좋아요 리스트 필터링 <br> - 상세 이미지 페이지                                                                                                                |                                               - 회원가입    <br>- 로그인, 로그아웃 <br> 일반 / 구글 / 게스트 로그인 <br> - 프로필 페이지 <br> 회원 정보 조회 / 탈퇴 <br> 좋아요 리스트 조회 / 업데이트 
 
