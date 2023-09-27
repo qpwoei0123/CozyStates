@@ -6,7 +6,6 @@ import { useQuery } from '@tanstack/react-query';
 import { GetMusic } from '../../api/api';
 import TimerModal from '../theme/themeList/TimerModal';
 import { IoPlay, IoPlayBack, IoPlayForward, IoPause } from 'react-icons/io5';
-import { ImLoop } from 'react-icons/im';
 import Spinner from '../../assets/gif/Spinner.svg';
 
 //오디오 플레이어
@@ -16,7 +15,6 @@ const AudioPlayer = () => {
   const [currentVolume, setCurrentVolume] = useState<number>(0.2);
   const [currentMusicId, setCurrentMusicId] = useState<number>(-1);
   const [isPlaying, setIsPlaying] = useState<boolean>(false);
-  const [isLoop, setIsLoop] = useState<boolean>(false);
   const { themeId } = useParams();
   const volumes = Array.from(
     { length: 20 },
@@ -154,7 +152,7 @@ const AudioPlayer = () => {
 
   // "end" 이벤트 핸들러
   const handleMusicEnd = () => {
-    if (!isLoop && musicList && musicList.length > 0) {
+    if (musicList && musicList.length > 0) {
       // 현재 곡이 마지막 곡이 아닌 경우에만 다음 곡으로 이동
       const nextId = (currentMusicId + 1) % musicList.length;
       setCurrentMusicId(nextId);
@@ -348,28 +346,6 @@ const S_IoPause = styled(IoPause)`
   border-radius: 5px;
   cursor: pointer;
   color: white;
-  transition: padding 0.3s, background-color 0.3s;
-  //버튼 크기증가 & 배경색 변화
-  &:hover {
-    padding: 12px;
-    background-color: #e3e3e3;
-  }
-  //클릭 시 버튼 길이 축소외 섹상변경
-  &:active {
-    transition: padding 0.1s, background-color 0.1s;
-    padding: 10px 12px;
-    background-color: #bbddff;
-  }
-`;
-
-const S_ImLoop = styled(ImLoop)<{ isLoop: boolean }>`
-  height: 26px;
-  width: auto;
-  padding: 0 12px;
-  margin-right: 12px;
-  border-radius: 5px;
-  cursor: pointer;
-  color: ${(prop) => (prop.isLoop ? 'white' : 'rgba(255, 255, 255, 0.3)')};
   transition: padding 0.3s, background-color 0.3s;
   //버튼 크기증가 & 배경색 변화
   &:hover {
