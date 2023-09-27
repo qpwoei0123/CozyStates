@@ -9,7 +9,7 @@ import {
   UserInfo,
 } from '../types/types';
 
-const BASE_URL = 'http://api.cozystates.com/';
+const BASE_URL = 'https://api.cozystates.com/';
 
 // 음악 리스트 요청
 export const GetMusic = (ThemeId: string | undefined): Promise<Musics> =>
