@@ -88,7 +88,11 @@
 ![Large GIF (640x305)](https://github.com/qpwoei0123/CozyStates/assets/85989215/49feedb0-1290-4a59-83a6-653950c8693b)
 ![Large GIF (640x292)](https://github.com/qpwoei0123/CozyStates/assets/85989215/622659b1-d5cc-458d-9236-b1c441ed9bda)
 
+<br>
 
+> Admin Upload
+
+![Large GIF (640x291)](https://github.com/qpwoei0123/CozyStates/assets/85989215/2a69ea48-2bbc-44de-8b3f-67dec5eed217)
 
 <br>
 
