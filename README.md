@@ -2,8 +2,6 @@
 <div align="center" >
 <img width="1416" alt="image" src="https://github.com/codestates-seb/seb44_main_029/assets/85989215/ba3354c0-b5e6-4c7e-8c65-85db032feb50">
 </div>
-
-
 <br>
 
  `팀 명` : 육-얼간이: Across the 얼간이-Verse <br>
@@ -56,6 +54,49 @@
 | <img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"> | <img alt="Discord logo" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" height="65" width="65"> | <img alt="Notion logo" src="https://www.notion.so/cdn-cgi/image/format=auto,width=640,quality=100/front-static/shared/icons/notion-app-icon-3d.png" height="65" width="65"> |
 
 </br>
+
+## 👓 Service
+
+> Main Page
+
+![Large GIF (640x306)](https://github.com/qpwoei0123/CozyStates/assets/85989215/b6ed808a-f368-4a7e-be37-e1197fdf8bc1)
+![Large GIF (640x535)](https://github.com/qpwoei0123/CozyStates/assets/85989215/6ed1a90a-d9d5-41e5-a72a-409766033cbf)
+![Large GIF (480x585)](https://github.com/qpwoei0123/CozyStates/assets/85989215/dbcf6ef9-635d-4410-b6bb-f177231b0cfd)
+
+<br>
+
+> ThemeList Page
+
+![Large GIF (640x305)](https://github.com/qpwoei0123/CozyStates/assets/85989215/e6314192-bcef-412f-ad96-5672c627a34a)
+
+<br>
+
+> ThemeImageList Page
+
+![Large GIF (640x305)](https://github.com/qpwoei0123/CozyStates/assets/85989215/10b74e1b-98af-4437-9c5e-404e58929cba)
+
+<br>
+
+> ThemeImageDetail Page
+
+![Large GIF (640x305)](https://github.com/qpwoei0123/CozyStates/assets/85989215/8228e877-3975-4308-b703-10ef91edc689)
+
+<br>
+
+> User Page
+
+![Large GIF (640x305)](https://github.com/qpwoei0123/CozyStates/assets/85989215/49feedb0-1290-4a59-83a6-653950c8693b)
+![Large GIF (640x292)](https://github.com/qpwoei0123/CozyStates/assets/85989215/622659b1-d5cc-458d-9236-b1c441ed9bda)
+
+
+
+<br>
+
+> Audio Component
+
+![Large GIF (640x225)](https://github.com/qpwoei0123/CozyStates/assets/85989215/8aff0935-80b6-4216-847d-fdbbfea9ed64)
+![Large GIF (640x165)](https://github.com/qpwoei0123/CozyStates/assets/85989215/befbd41a-8bb8-46fe-ade1-663c3ee3c64c)
+
 
 
 ## 🌱 Git
