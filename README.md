@@ -14,28 +14,28 @@
 <br>
 
 ## ✨ Team Member
-|  Team FE  |  한원영 (Leader) |   이지효   |    정희창    |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-| Profile |<img width="150" src="https://avatars.githubusercontent.com/u/52683129?v=4">| <img width="150" src="https://avatars.githubusercontent.com/u/91511828?v=4"> |<img width=150 src="https://github.com/qpwoei0123/CozyStates/assets/85989215/b9fc73cc-c593-4413-9f8b-477c4a6677a0">
+|  Team FE  | 한원영 [Leader] |   이지효   |    정희창    |
+| :-------: | :---------: | :-------: | :--------: |
+| Profile |<img width="150" src="https://avatars.githubusercontent.com/u/85989215?v=4">| <img width="150" src="https://avatars.githubusercontent.com/u/91511828?v=4"> |<img width=150 src="https://github.com/qpwoei0123/CozyStates/assets/85989215/b9fc73cc-c593-4413-9f8b-477c4a6677a0">
 | GitHub ID |  [@qpwoei0123](https://github.com/qpwoei0123) | [@dlwl8y](https://github.com/dlwl8y) |  [@HEECHANG96](https://github.com/HEECHANG96) |
-|   Role    |                                                                              - 음원 컴포넌트  <br> - 파일 업로드 <br> - 공통 컴포넌트(Nav) <br> - 테마리스트 페이지 <br> - 랜딩 페이지 <br>                                           |        - 테마 아이템 리스트 <br> - 페이지네이션(무한 스크롤) <br> - 좋아요 기능 <br> - 좋아요 리스트 필터링 <br> - 상세 이미지 페이지                                                                                                                |                                               - 회원가입    <br>- 로그인, 로그아웃 <br> 일반 / 구글 / 게스트 로그인 <br> - 프로필 페이지 <br> 회원 정보 조회 / 탈퇴 <br> 좋아요 리스트 조회 / 업데이트 
+|   Role    | 음원재생 컴포넌트 <br> 공통 컴포넌트(Nav) <br> 테마리스트 페이지 <br> 랜딩 페이지 <br> 파일 업로드 기능<br> | 테마 아이템 리스트 <br> 페이지네이션(무한 스크롤) <br> 좋아요 기능 <br> 좋아요 리스트 필터링 <br>  상세 이미지 페이지    |  회원가입    <br>로그인 <br> 프로필 페이지 <br> 회원 정보 조회 / 탈퇴 <br> 좋아요 리스트 조회 / 업데이트 
 
 <br>
 
-|  Team BE  |   이동열 (Leader)  |  조성욱  | 허웅    |
-| :-------: | :-------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+|  Team BE  |   이동열 [Leader]  |  조성욱  | 허웅    |
+| :-------: | :--------------: | :------: | :---: |
 | Profile |<img width="150" src="https://avatars.githubusercontent.com/u/117034592?v=4"> |<img width="150" src="https://avatars.githubusercontent.com/u/70518135?v=4"> | <img width="150" src="https://avatars.githubusercontent.com/u/113077033?v=4"> 
 | GitHub ID | [@11dy](https://github.com/11dy) |  [@josungyuk](https://github.com/josungyuk) | [@mins-git](https://github.com/mins-git) |
-|   Role    |                - AWS EC2 배포 <br> - 음원 조회 기능  <br> - 음원 업로드 기능                                                           |                       <br> - 회원가입 <br> - 회원 이력 관리 <br> - JWT, OAuth 로그인  <br> - Security                                                                            |                                              - 게시판 CRUD <br> - 댓글 CRUD <br> - 게시글 좋아요 기능 <br> - 이미지 AWS 저장                                         |
+|   Role    |  AWS EC2 배포 <br> 음원 조회 기능  <br> 음원 업로드 기능  | <br> 회원가입 <br> 회원 이력 관리 <br> JWT, OAuth 로그인  <br> Security | 게시판 CRUD <br> 댓글 CRUD <br> 게시글 좋아요 기능 <br> 이미지 AWS 저장  |
 
 
 <br>
 
 ## 💻 Stacks Used
 ### Back-end
-|   Java   |   Spring   |   Spring Boot   |   Spring Security   |   MySQL   |   AWS   | 
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |  <img alt="spring-security logo" width="60px" src="https://camo.githubusercontent.com/923e99a57f8a456fdade5f65b35ada254be277612ddc991afb702d8dfd880d4f/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f737072696e677365637572697479" width="85" height=auto > | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div> | 
+|   Java   |   Spring   |   Spring Boot   |     MySQL   |   AWS   | 
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" >  | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div> | 
 
 
 </br>
